@@ -1,0 +1,281 @@
+_XSERVTransmkdir: ERROR: euid != 0,directory /tmp/.X11-unix will not be created.
+
+Xvnc TigerVNC 1.7.0 - built Dec  5 2017 09:25:01
+Copyright (C) 1999-2016 TigerVNC Team and many others (see README.txt)
+See http://www.tigervnc.org for information on TigerVNC.
+Underlying X server release 11905000, The X.Org Foundation
+
+
+Tue Jun 22 15:21:02 2021
+ vncext:      VNC extension running!
+ vncext:      Listening for VNC connections on local interface(s), port 5901
+ vncext:      created VNC server for screen 0
+/usr/bin/startxfce4: X server already running on display :1
+/home/labsuser/Desktop was removed, reassigning DESKTOP to homedir
+/home/labsuser/Downloads was removed, reassigning DOWNLOAD to homedir
+/home/labsuser/Templates was removed, reassigning TEMPLATES to homedir
+/home/labsuser/Public was removed, reassigning PUBLICSHARE to homedir
+/home/labsuser/Documents was removed, reassigning DOCUMENTS to homedir
+/home/labsuser/Music was removed, reassigning MUSIC to homedir
+/home/labsuser/Pictures was removed, reassigning PICTURES to homedir
+/home/labsuser/Videos was removed, reassigning VIDEOS to homedir
+_IceTransmkdir: ERROR: euid != 0,directory /tmp/.ICE-unix will not be created.
+gpg-agent[587]: WARNING: "--write-env-file" is an obsolete option - it has no effect
+gpg-agent[587]: directory '/home/labsuser/.gnupg' created
+gpg-agent[587]: directory '/home/labsuser/.gnupg/private-keys-v1.d' created
+gpg-agent[588]: gpg-agent (GnuPG) 2.2.4 started
+
+(xfce4-session:572): xfce4-session-WARNING **: 15:21:05.152: gpg-agent returned no PID in the variables
+
+(xfce4-session:572): xfce4-session-WARNING **: 15:21:05.158: xfsm_manager_load_session: Something wrong with /home/labsuser/.cache/sessions/xfce4-session-ubuntu1804:1, Does it exist? Permissions issue?
+
+(xfsettingsd:598): libupower-glib-WARNING **: 15:21:05.552: Couldn't connect to proxy: Could not connect: No such file or directory
+
+(xfsettingsd:598): libupower-glib-CRITICAL **: 15:21:05.552: up_client_get_lid_is_closed: assertion 'UP_IS_CLIENT (client)' failed
+
+(xfsettingsd:598): GLib-GObject-WARNING **: 15:21:05.552: invalid (NULL) pointer instance
+
+(xfsettingsd:598): GLib-GObject-CRITICAL **: 15:21:05.552: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(xfdesktop:599): Gtk-WARNING **: 15:21:05.555: Unable to locate theme engine in module_path: "pixmap",
+
+(xfce4-session:572): Gtk-WARNING **: 15:21:05.555: Unable to locate theme engine in module_path: "pixmap",
+
+(xfdesktop:599): Gtk-WARNING **: 15:21:05.556: Unable to locate theme engine in module_path: "pixmap",
+
+(xfce4-session:572): Gtk-WARNING **: 15:21:05.556: Unable to locate theme engine in module_path: "pixmap",
+
+(xfdesktop:599): Gtk-WARNING **: 15:21:05.556: Unable to locate theme engine in module_path: "pixmap",
+
+(xfce4-session:572): Gtk-WARNING **: 15:21:05.556: Unable to locate theme engine in module_path: "pixmap",
+
+(xfdesktop:599): Gtk-WARNING **: 15:21:05.557: Unable to locate theme engine in module_path: "pixmap",
+
+(xfdesktop:599): Gtk-WARNING **: 15:21:05.557: Unable to locate theme engine in module_path: "pixmap",
+
+(xfce4-session:572): Gtk-WARNING **: 15:21:05.558: Unable to locate theme engine in module_path: "pixmap",
+
+(xfce4-session:572): Gtk-WARNING **: 15:21:05.558: Unable to locate theme engine in module_path: "pixmap",
+
+(xfce4-panel:594): Gtk-WARNING **: 15:21:05.562: Unable to locate theme engine in module_path: "pixmap",
+
+(xfce4-panel:594): Gtk-WARNING **: 15:21:05.562: Unable to locate theme engine in module_path: "pixmap",
+
+(xfce4-panel:594): Gtk-WARNING **: 15:21:05.563: Unable to locate theme engine in module_path: "pixmap",
+
+(xfce4-panel:594): Gtk-WARNING **: 15:21:05.564: Unable to locate theme engine in module_path: "pixmap",
+
+(xfce4-panel:594): Gtk-WARNING **: 15:21:05.564: Unable to locate theme engine in module_path: "pixmap",
+
+(Thunar:596): Gtk-WARNING **: 15:21:05.654: Unable to locate theme engine in module_path: "pixmap",
+
+(Thunar:596): Gtk-WARNING **: 15:21:05.655: Unable to locate theme engine in module_path: "pixmap",
+
+(Thunar:596): Gtk-WARNING **: 15:21:05.655: Unable to locate theme engine in module_path: "pixmap",
+
+(Thunar:596): Gtk-WARNING **: 15:21:05.657: Unable to locate theme engine in module_path: "pixmap",
+
+(Thunar:596): Gtk-WARNING **: 15:21:05.657: Unable to locate theme engine in module_path: "pixmap",
+
+(xfsettingsd:598): Gtk-WARNING **: 15:21:05.668: Unable to locate theme engine in module_path: "pixmap",
+
+(xfsettingsd:598): Gtk-WARNING **: 15:21:05.668: Unable to locate theme engine in module_path: "pixmap",
+
+(xfsettingsd:598): Gtk-WARNING **: 15:21:05.668: Unable to locate theme engine in module_path: "pixmap",
+
+(xfsettingsd:598): Gtk-WARNING **: 15:21:05.669: Unable to locate theme engine in module_path: "pixmap",
+
+(xfsettingsd:598): Gtk-WARNING **: 15:21:05.669: Unable to locate theme engine in module_path: "pixmap",
+
+(xfwm4:590): xfwm4-WARNING **: 15:21:05.847: Error opening /dev/dri/card0: No such file or directory
+
+(xfwm4:590): Gtk-WARNING **: 15:21:05.862: Unable to locate theme engine in module_path: "pixmap",
+
+(xfwm4:590): Gtk-WARNING **: 15:21:05.946: Unable to locate theme engine in module_path: "pixmap",
+
+(xfwm4:590): Gtk-WARNING **: 15:21:05.946: Unable to locate theme engine in module_path: "pixmap",
+
+(xfwm4:590): Gtk-WARNING **: 15:21:05.950: Unable to locate theme engine in module_path: "pixmap",
+
+(xfwm4:590): Gtk-WARNING **: 15:21:05.950: Unable to locate theme engine in module_path: "pixmap",
+xfce4-panel-Message: 15:21:06.246: Plugin "(null)-7" was not found and has been removed from the configuration
+
+(wrapper-1.0:636): Gtk-WARNING **: 15:21:06.247: Unable to locate theme engine in module_path: "pixmap",
+
+(wrapper-1.0:636): Gtk-WARNING **: 15:21:06.248: Unable to locate theme engine in module_path: "pixmap",
+
+(wrapper-1.0:636): Gtk-WARNING **: 15:21:06.248: Unable to locate theme engine in module_path: "pixmap",
+
+(wrapper-1.0:636): Gtk-WARNING **: 15:21:06.250: Unable to locate theme engine in module_path: "pixmap",
+
+(wrapper-1.0:636): Gtk-WARNING **: 15:21:06.250: Unable to locate theme engine in module_path: "pixmap",
+
+(wrapper-1.0:639): Gtk-WARNING **: 15:21:06.263: Unable to locate theme engine in module_path: "pixmap",
+
+(wrapper-1.0:639): Gtk-WARNING **: 15:21:06.263: Unable to locate theme engine in module_path: "pixmap",
+
+(wrapper-1.0:639): Gtk-WARNING **: 15:21:06.263: Unable to locate theme engine in module_path: "pixmap",
+
+(wrapper-1.0:639): Gtk-WARNING **: 15:21:06.264: Unable to locate theme engine in module_path: "pixmap",
+
+(wrapper-1.0:639): Gtk-WARNING **: 15:21:06.264: Unable to locate theme engine in module_path: "pixmap",
+
+** (xfce4-session:572): CRITICAL **: 15:21:06.347: polkit_authority_check_authorization_sync: assertion 'POLKIT_IS_AUTHORITY (authority)' failed
+
+(xfce4-session:572): GLib-CRITICAL **: 15:21:06.347: g_propagate_error: assertion 'src != NULL' failed
+
+** (xfce4-session:572): CRITICAL **: 15:21:06.347: polkit_authority_check_authorization_sync: assertion 'POLKIT_IS_AUTHORITY (authority)' failed
+
+(xfce4-session:572): GLib-CRITICAL **: 15:21:06.347: g_propagate_error: assertion 'src != NULL' failed
+
+** (xfce4-session:572): CRITICAL **: 15:21:06.348: polkit_authority_check_authorization_sync: assertion 'POLKIT_IS_AUTHORITY (authority)' failed
+
+(xfce4-session:572): GLib-CRITICAL **: 15:21:06.348: g_propagate_error: assertion 'src != NULL' failed
+
+(xfce4-session:572): xfce4-session-WARNING **: 15:21:06.352: failed to run script: Failed to execute child process “/usr/bin/pm-is-supported” (No such file or directory)
+
+** (xfce4-session:572): CRITICAL **: 15:21:06.352: polkit_authority_check_authorization_sync: assertion 'POLKIT_IS_AUTHORITY (authority)' failed
+
+(xfce4-session:572): GLib-CRITICAL **: 15:21:06.352: g_propagate_error: assertion 'src != NULL' failed
+xfce4-panel-Message: 15:21:06.356: Plugin "(null)-13" was not found and has been removed from the configuration
+xfce4-panel-Message: 15:21:06.357: Plugin "(null)-14" was not found and has been removed from the configuration
+
+(xfce4-session:572): xfce4-session-WARNING **: 15:21:06.359: failed to run script: Failed to execute child process “/usr/bin/pm-is-supported” (No such file or directory)
+
+(xfdesktop:599): GVFS-RemoteVolumeMonitor-WARNING **: 15:21:07.455: remote volume monitor with dbus name org.gtk.vfs.UDisks2VolumeMonitor is not supported
+
+** (xfdesktop:599): WARNING **: 15:21:08.154: Failed to get system bus: Could not connect: No such file or directory
+_XSERVTransmkdir: ERROR: euid != 0,directory /tmp/.X11-unix will not be created.
+
+Xvnc TigerVNC 1.7.0 - built Dec  5 2017 09:25:01
+Copyright (C) 1999-2016 TigerVNC Team and many others (see README.txt)
+See http://www.tigervnc.org for information on TigerVNC.
+Underlying X server release 11905000, The X.Org Foundation
+
+
+Tue Jun 22 15:43:35 2021
+ vncext:      VNC extension running!
+ vncext:      Listening for VNC connections on local interface(s), port 5901
+ vncext:      created VNC server for screen 0
+/usr/bin/startxfce4: X server already running on display :1
+_IceTransmkdir: ERROR: euid != 0,directory /tmp/.ICE-unix will not be created.
+gpg-agent[361]: WARNING: "--write-env-file" is an obsolete option - it has no effect
+
+(xfce4-session:308): xfce4-session-WARNING **: 15:43:36.719: gpg-agent returned no PID in the variables
+gpg-agent[370]: gpg-agent (GnuPG) 2.2.4 started
+
+(xfce4-session:308): xfce4-session-WARNING **: 15:43:36.890: xfsm_manager_load_session: Something wrong with /home/labsuser/.cache/sessions/xfce4-session-ubuntu1804:1, Does it exist? Permissions issue?
+
+(xfsettingsd:401): libupower-glib-WARNING **: 15:43:37.495: Couldn't connect to proxy: Could not connect: No such file or directory
+
+(xfsettingsd:401): libupower-glib-CRITICAL **: 15:43:37.496: up_client_get_lid_is_closed: assertion 'UP_IS_CLIENT (client)' failed
+
+(xfsettingsd:401): GLib-GObject-WARNING **: 15:43:37.496: invalid (NULL) pointer instance
+
+(xfsettingsd:401): GLib-GObject-CRITICAL **: 15:43:37.496: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(xfdesktop:402): Gtk-WARNING **: 15:43:37.499: Unable to locate theme engine in module_path: "pixmap",
+
+(xfdesktop:402): Gtk-WARNING **: 15:43:37.500: Unable to locate theme engine in module_path: "pixmap",
+
+(xfce4-session:308): Gtk-WARNING **: 15:43:37.500: Unable to locate theme engine in module_path: "pixmap",
+
+(xfdesktop:402): Gtk-WARNING **: 15:43:37.501: Unable to locate theme engine in module_path: "pixmap",
+
+(xfce4-session:308): Gtk-WARNING **: 15:43:37.503: Unable to locate theme engine in module_path: "pixmap",
+
+(xfce4-session:308): Gtk-WARNING **: 15:43:37.504: Unable to locate theme engine in module_path: "pixmap",
+
+(xfce4-session:308): Gtk-WARNING **: 15:43:37.509: Unable to locate theme engine in module_path: "pixmap",
+
+(xfce4-session:308): Gtk-WARNING **: 15:43:37.509: Unable to locate theme engine in module_path: "pixmap",
+
+(xfce4-panel:392): Gtk-WARNING **: 15:43:37.512: Unable to locate theme engine in module_path: "pixmap",
+
+(xfce4-panel:392): Gtk-WARNING **: 15:43:37.513: Unable to locate theme engine in module_path: "pixmap",
+
+(xfdesktop:402): Gtk-WARNING **: 15:43:37.596: Unable to locate theme engine in module_path: "pixmap",
+
+(xfdesktop:402): Gtk-WARNING **: 15:43:37.596: Unable to locate theme engine in module_path: "pixmap",
+
+(xfce4-panel:392): Gtk-WARNING **: 15:43:37.596: Unable to locate theme engine in module_path: "pixmap",
+
+(xfce4-panel:392): Gtk-WARNING **: 15:43:37.600: Unable to locate theme engine in module_path: "pixmap",
+
+(xfce4-panel:392): Gtk-WARNING **: 15:43:37.600: Unable to locate theme engine in module_path: "pixmap",
+
+(Thunar:397): Gtk-WARNING **: 15:43:37.611: Unable to locate theme engine in module_path: "pixmap",
+
+(Thunar:397): Gtk-WARNING **: 15:43:37.611: Unable to locate theme engine in module_path: "pixmap",
+
+(Thunar:397): Gtk-WARNING **: 15:43:37.612: Unable to locate theme engine in module_path: "pixmap",
+
+(Thunar:397): Gtk-WARNING **: 15:43:37.699: Unable to locate theme engine in module_path: "pixmap",
+
+(Thunar:397): Gtk-WARNING **: 15:43:37.699: Unable to locate theme engine in module_path: "pixmap",
+
+(xfsettingsd:401): Gtk-WARNING **: 15:43:37.790: Unable to locate theme engine in module_path: "pixmap",
+
+(xfsettingsd:401): Gtk-WARNING **: 15:43:37.793: Unable to locate theme engine in module_path: "pixmap",
+
+(xfsettingsd:401): Gtk-WARNING **: 15:43:37.801: Unable to locate theme engine in module_path: "pixmap",
+
+(xfwm4:386): xfwm4-WARNING **: 15:43:37.808: Error opening /dev/dri/card0: No such file or directory
+
+(xfsettingsd:401): Gtk-WARNING **: 15:43:37.814: Unable to locate theme engine in module_path: "pixmap",
+
+(xfsettingsd:401): Gtk-WARNING **: 15:43:37.814: Unable to locate theme engine in module_path: "pixmap",
+
+(xfwm4:386): Gtk-WARNING **: 15:43:37.909: Unable to locate theme engine in module_path: "pixmap",
+
+(xfwm4:386): Gtk-WARNING **: 15:43:37.912: Unable to locate theme engine in module_path: "pixmap",
+
+(xfwm4:386): Gtk-WARNING **: 15:43:37.913: Unable to locate theme engine in module_path: "pixmap",
+
+(xfwm4:386): Gtk-WARNING **: 15:43:38.000: Unable to locate theme engine in module_path: "pixmap",
+
+(xfwm4:386): Gtk-WARNING **: 15:43:38.003: Unable to locate theme engine in module_path: "pixmap",
+
+(wrapper-1.0:488): Gtk-WARNING **: 15:43:38.594: Unable to locate theme engine in module_path: "pixmap",
+
+(wrapper-1.0:488): Gtk-WARNING **: 15:43:38.597: Unable to locate theme engine in module_path: "pixmap",
+
+(wrapper-1.0:488): Gtk-WARNING **: 15:43:38.598: Unable to locate theme engine in module_path: "pixmap",
+
+(wrapper-1.0:488): Gtk-WARNING **: 15:43:38.600: Unable to locate theme engine in module_path: "pixmap",
+
+(wrapper-1.0:488): Gtk-WARNING **: 15:43:38.600: Unable to locate theme engine in module_path: "pixmap",
+
+(wrapper-1.0:489): Gtk-WARNING **: 15:43:38.715: Unable to locate theme engine in module_path: "pixmap",
+
+(wrapper-1.0:489): Gtk-WARNING **: 15:43:38.716: Unable to locate theme engine in module_path: "pixmap",
+
+(wrapper-1.0:489): Gtk-WARNING **: 15:43:38.716: Unable to locate theme engine in module_path: "pixmap",
+
+(wrapper-1.0:489): Gtk-WARNING **: 15:43:38.789: Unable to locate theme engine in module_path: "pixmap",
+
+(wrapper-1.0:489): Gtk-WARNING **: 15:43:38.789: Unable to locate theme engine in module_path: "pixmap",
+
+** (xfce4-session:308): CRITICAL **: 15:43:38.810: polkit_authority_check_authorization_sync: assertion 'POLKIT_IS_AUTHORITY (authority)' failed
+
+(xfce4-session:308): GLib-CRITICAL **: 15:43:38.810: g_propagate_error: assertion 'src != NULL' failed
+
+** (xfce4-session:308): CRITICAL **: 15:43:38.890: polkit_authority_check_authorization_sync: assertion 'POLKIT_IS_AUTHORITY (authority)' failed
+
+(xfce4-session:308): GLib-CRITICAL **: 15:43:38.890: g_propagate_error: assertion 'src != NULL' failed
+
+** (xfce4-session:308): CRITICAL **: 15:43:38.892: polkit_authority_check_authorization_sync: assertion 'POLKIT_IS_AUTHORITY (authority)' failed
+
+(xfce4-session:308): GLib-CRITICAL **: 15:43:38.892: g_propagate_error: assertion 'src != NULL' failed
+
+(xfce4-session:308): xfce4-session-WARNING **: 15:43:38.989: failed to run script: Failed to execute child process “/usr/bin/pm-is-supported” (No such file or directory)
+
+** (xfce4-session:308): CRITICAL **: 15:43:38.990: polkit_authority_check_authorization_sync: assertion 'POLKIT_IS_AUTHORITY (authority)' failed
+
+(xfce4-session:308): GLib-CRITICAL **: 15:43:38.990: g_propagate_error: assertion 'src != NULL' failed
+
+(xfce4-session:308): xfce4-session-WARNING **: 15:43:39.009: failed to run script: Failed to execute child process “/usr/bin/pm-is-supported” (No such file or directory)
+
+(xfdesktop:402): GVFS-RemoteVolumeMonitor-WARNING **: 15:43:39.410: remote volume monitor with dbus name org.gtk.vfs.UDisks2VolumeMonitor is not supported
+
+** (xfdesktop:402): WARNING **: 15:43:40.295: Failed to get system bus: Could not connect: No such file or directory
